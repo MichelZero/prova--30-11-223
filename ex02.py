@@ -1,4 +1,6 @@
-
+# prova 2
+# data: 30/11/2023
+# autores: Cristiano e Michel
 
 
 # 2.	Em linguagem Python, faça um programa que lê uma 

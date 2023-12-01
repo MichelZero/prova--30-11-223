@@ -1,4 +1,6 @@
-
+# prova 2
+# data: 30/11/2023
+# autores: Cristiano e Michel
 
 # 1.	Em linguagem Python, Dado um dicionário, 
 # faça um programa que encontre 
